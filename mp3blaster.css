@@ -1,6 +1,6 @@
 /* font-family: 'EB Garamond', serif; */
-font-family: 'Ysabeau Office', sans-serif;
 body{
+    font-family: 'Ysabeau Office', sans-serif;
     background-color: aliceblue;  
 }                       
 *{
@@ -43,7 +43,6 @@ li{
     height: 530px;
 min-height: 65vh;
 background-image: url(hhh.webp  );
-background-position:;
 background-repeat: no-repeat;
 background-size: 100%;
 background-color: black;
