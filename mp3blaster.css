@@ -44,7 +44,7 @@ li{
 min-height: 65vh;
 background-image: url(hhh.webp  );
 background-repeat: no-repeat;
-background-size: 100%;
+background-size: cover;
 background-color: black;
 color: antiquewhite;
 font-family: 'Ysabeau Office', sans-serif;
@@ -79,10 +79,10 @@ color: black;
 margin: 12px 0;
 justify-content: space-between;
 align-items: center;
-border-radius: 34px;
+border-radius:34px;
 }
 .songitemcontainer{
-    margin: 40px;
+    margin:40px;
 }
 .times{
     margin:0 23px;
@@ -98,17 +98,17 @@ border-radius: 34px;
  }
  
  .songitem img{
-    width: 35px;
+    width:35px;
     margin: 0 15px;
-    border-radius: 34px;
+    border-radius:34px;
 
 }
  
  .icons{
     cursor: pointer;
     position: absolute;
-    bottom: 0;
-    height: 36%;
+    bottom:0;
+    height:36%;
     
 
  }
